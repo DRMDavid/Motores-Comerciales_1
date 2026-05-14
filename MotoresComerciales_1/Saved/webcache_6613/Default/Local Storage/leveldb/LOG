@@ -1,2 +1,24 @@
-2026/05/12-08:30:51.963 6038 Creating DB D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/05/12-08:30:51.977 6038 Reusing MANIFEST D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/14-08:46:13.004 5fc0 Reusing MANIFEST D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/14-08:46:13.010 5fc0 Recovering log #10
+2026/05/14-08:46:13.013 5fc0 Reusing old log D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/000010.log 
+2026/05/14-08:47:22.317 5f68 Level-0 table #14: started
+2026/05/14-08:47:22.323 5f68 Level-0 table #14: 75682 bytes OK
+2026/05/14-08:47:22.326 5f68 Delete type=0 #10
+2026/05/14-08:55:01.547 5f68 Level-0 table #16: started
+2026/05/14-08:55:01.552 5f68 Level-0 table #16: 76738 bytes OK
+2026/05/14-08:55:01.554 5f68 Delete type=0 #13
+2026/05/14-08:55:01.555 5f68 Compacting 4@0 + 1@1 files
+2026/05/14-08:55:01.560 5f68 Generated table #17@0: 9 keys, 26809 bytes
+2026/05/14-08:55:01.560 5f68 Compacted 4@0 + 1@1 files => 26809 bytes
+2026/05/14-08:55:01.561 5f68 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/14-08:55:01.562 5f68 Delete type=2 #7
+2026/05/14-08:55:01.562 5f68 Delete type=2 #9
+2026/05/14-08:55:01.562 5f68 Delete type=2 #11
+2026/05/14-08:55:01.562 5f68 Delete type=2 #14
+2026/05/14-08:55:01.562 5f68 Delete type=2 #16
+2026/05/14-08:55:53.966 5f68 Level-0 table #19: started
+2026/05/14-08:55:53.976 5f68 Level-0 table #19: 76146 bytes OK
+2026/05/14-08:55:53.979 5f68 Delete type=0 #15
+2026/05/14-08:56:50.398 5f68 Level-0 table #21: started
+2026/05/14-08:56:50.402 5f68 Level-0 table #21: 77940 bytes OK
+2026/05/14-08:56:50.404 5f68 Delete type=0 #18

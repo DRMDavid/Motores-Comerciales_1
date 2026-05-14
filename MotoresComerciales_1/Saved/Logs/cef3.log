@@ -1,6 +1,22 @@
-[1832:19660:0512/083051.821:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1832:19660:0512/083051.905:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1832:23380:0512/083105.041:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[1832:23380:0512/083105.142:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[11816:11056:0512/083926.911:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-958B72C528CCC98F73FC3C2A4387FF84 will be ignored
-[1832:19660:0512/090108.630:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[20688:3580:0514/084612.843:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20688:3580:0514/084612.929:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16160:14972:0514/084617.957:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B813AA2A48428D4C9FD74A6B2F64D2C9 will be ignored
+[20688:23132:0514/084619.345:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20688:23132:0514/084619.348:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20688:23132:0514/084619.356:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10040:4008:0514/084650.507:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-3E5EDFF0DA69B382552C9E508E90FCFF will be ignored
+[18536:12508:0514/084703.127:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[18536:20676:0514/084703.233:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[18536:12508:0514/084703.597:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[18536:24164:0514/085043.652:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[23204:19672:0514/085439.931:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-F92B6677B7A8A0AF3D363F8A38D123EC will be ignored
+[12124:7320:0514/085548.779:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame E-E6C5715ED2452B26826D03424F2D3381 will be ignored
+[20688:3580:0514/085733.865:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
