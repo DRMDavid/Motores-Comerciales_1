@@ -1,24 +1,48 @@
-2026/05/14-08:46:13.004 5fc0 Reusing MANIFEST D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/14-08:46:13.010 5fc0 Recovering log #10
-2026/05/14-08:46:13.013 5fc0 Reusing old log D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/000010.log 
-2026/05/14-08:47:22.317 5f68 Level-0 table #14: started
-2026/05/14-08:47:22.323 5f68 Level-0 table #14: 75682 bytes OK
-2026/05/14-08:47:22.326 5f68 Delete type=0 #10
-2026/05/14-08:55:01.547 5f68 Level-0 table #16: started
-2026/05/14-08:55:01.552 5f68 Level-0 table #16: 76738 bytes OK
-2026/05/14-08:55:01.554 5f68 Delete type=0 #13
-2026/05/14-08:55:01.555 5f68 Compacting 4@0 + 1@1 files
-2026/05/14-08:55:01.560 5f68 Generated table #17@0: 9 keys, 26809 bytes
-2026/05/14-08:55:01.560 5f68 Compacted 4@0 + 1@1 files => 26809 bytes
-2026/05/14-08:55:01.561 5f68 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/14-08:55:01.562 5f68 Delete type=2 #7
-2026/05/14-08:55:01.562 5f68 Delete type=2 #9
-2026/05/14-08:55:01.562 5f68 Delete type=2 #11
-2026/05/14-08:55:01.562 5f68 Delete type=2 #14
-2026/05/14-08:55:01.562 5f68 Delete type=2 #16
-2026/05/14-08:55:53.966 5f68 Level-0 table #19: started
-2026/05/14-08:55:53.976 5f68 Level-0 table #19: 76146 bytes OK
-2026/05/14-08:55:53.979 5f68 Delete type=0 #15
-2026/05/14-08:56:50.398 5f68 Level-0 table #21: started
-2026/05/14-08:56:50.402 5f68 Level-0 table #21: 77940 bytes OK
-2026/05/14-08:56:50.404 5f68 Delete type=0 #18
+2026/05/20-10:31:25.180 868 Reusing MANIFEST D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/20-10:31:25.193 868 Recovering log #20
+2026/05/20-10:31:25.196 868 Reusing old log D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/000020.log 
+2026/05/20-11:29:40.414 1b8c Level-0 table #24: started
+2026/05/20-11:29:40.419 1b8c Level-0 table #24: 81028 bytes OK
+2026/05/20-11:29:40.420 1b8c Delete type=0 #20
+2026/05/20-11:29:59.072 1b8c Level-0 table #26: started
+2026/05/20-11:29:59.080 1b8c Level-0 table #26: 79318 bytes OK
+2026/05/20-11:29:59.083 1b8c Delete type=0 #23
+2026/05/20-11:29:59.084 1b8c Compacting 4@0 + 1@1 files
+2026/05/20-11:29:59.093 1b8c Generated table #27@0: 9 keys, 28377 bytes
+2026/05/20-11:29:59.093 1b8c Compacted 4@0 + 1@1 files => 28377 bytes
+2026/05/20-11:29:59.094 1b8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/20-11:29:59.096 1b8c Delete type=2 #17
+2026/05/20-11:29:59.096 1b8c Delete type=2 #19
+2026/05/20-11:29:59.096 1b8c Delete type=2 #21
+2026/05/20-11:29:59.096 1b8c Delete type=2 #24
+2026/05/20-11:29:59.096 1b8c Delete type=2 #26
+2026/05/20-11:30:36.834 1b8c Level-0 table #29: started
+2026/05/20-11:30:36.846 1b8c Level-0 table #29: 81274 bytes OK
+2026/05/20-11:30:36.850 1b8c Delete type=0 #25
+2026/05/20-11:30:58.089 1b8c Level-0 table #31: started
+2026/05/20-11:30:58.098 1b8c Level-0 table #31: 82842 bytes OK
+2026/05/20-11:30:58.102 1b8c Delete type=0 #28
+2026/05/20-11:32:34.050 1b8c Level-0 table #33: started
+2026/05/20-11:32:34.054 1b8c Level-0 table #33: 83562 bytes OK
+2026/05/20-11:32:34.056 1b8c Delete type=0 #30
+2026/05/20-11:33:04.998 1b8c Level-0 table #35: started
+2026/05/20-11:33:05.005 1b8c Level-0 table #35: 85862 bytes OK
+2026/05/20-11:33:05.007 1b8c Delete type=0 #32
+2026/05/20-11:33:05.007 1b8c Compacting 4@0 + 1@1 files
+2026/05/20-11:33:05.018 1b8c Generated table #36@0: 9 keys, 30673 bytes
+2026/05/20-11:33:05.018 1b8c Compacted 4@0 + 1@1 files => 30673 bytes
+2026/05/20-11:33:05.020 1b8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/20-11:33:05.023 1b8c Delete type=2 #27
+2026/05/20-11:33:05.024 1b8c Delete type=2 #29
+2026/05/20-11:33:05.024 1b8c Delete type=2 #31
+2026/05/20-11:33:05.024 1b8c Delete type=2 #33
+2026/05/20-11:33:05.024 1b8c Delete type=2 #35
+2026/05/20-11:33:40.826 1b8c Level-0 table #38: started
+2026/05/20-11:33:40.831 1b8c Level-0 table #38: 87710 bytes OK
+2026/05/20-11:33:40.834 1b8c Delete type=0 #34
+2026/05/20-11:33:56.854 1b8c Level-0 table #40: started
+2026/05/20-11:33:56.866 1b8c Level-0 table #40: 88138 bytes OK
+2026/05/20-11:33:56.870 1b8c Delete type=0 #37
+2026/05/20-11:34:22.777 1b8c Level-0 table #42: started
+2026/05/20-11:34:22.784 1b8c Level-0 table #42: 84814 bytes OK
+2026/05/20-11:34:22.792 1b8c Delete type=0 #39
