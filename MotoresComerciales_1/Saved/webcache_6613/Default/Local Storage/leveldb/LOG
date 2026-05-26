@@ -1,3 +1,15 @@
-2026/05/21-07:24:06.334 2664 Reusing MANIFEST D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/21-07:24:06.346 2664 Recovering log #41
-2026/05/21-07:24:06.349 2664 Reusing old log D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/000041.log 
+2026/05/26-07:32:52.932 2894 Reusing MANIFEST D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/26-07:32:52.949 2894 Recovering log #41
+2026/05/26-07:32:52.952 2894 Reusing old log D:\MotoresComerciales\Motores-Comerciales_1\MotoresComerciales_1\Saved\webcache_6613\Default\Local Storage\leveldb/000041.log 
+2026/05/26-07:34:46.079 3e14 Level-0 table #45: started
+2026/05/26-07:34:46.083 3e14 Level-0 table #45: 67678 bytes OK
+2026/05/26-07:34:46.085 3e14 Delete type=0 #41
+2026/05/26-07:34:46.085 3e14 Compacting 4@0 + 1@1 files
+2026/05/26-07:34:46.089 3e14 Generated table #46@0: 9 keys, 30565 bytes
+2026/05/26-07:34:46.090 3e14 Compacted 4@0 + 1@1 files => 30565 bytes
+2026/05/26-07:34:46.090 3e14 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/26-07:34:46.091 3e14 Delete type=2 #36
+2026/05/26-07:34:46.091 3e14 Delete type=2 #38
+2026/05/26-07:34:46.091 3e14 Delete type=2 #40
+2026/05/26-07:34:46.091 3e14 Delete type=2 #42
+2026/05/26-07:34:46.091 3e14 Delete type=2 #45
